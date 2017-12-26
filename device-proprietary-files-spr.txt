@@ -22,7 +22,6 @@ lib/libjpegdhw.so:blobs/spr/lib/libjpegdhw.so
 lib/libedmnativehelper.so:blobs/spr/lib/libedmnativehelper.so
 lib/libbt-iopdb.so:blobs/spr/lib/libbt-iopdb.so
 lib/libbt-iopdb_mod.so:blobs/spr/lib/libbt-iopdb_mod.so
-lib/libbt-vendor.so:blobs/spr/lib/libbt-vendor.so
 lib/libbt-codec_aptx.so:blobs/spr/lib/libbt-codec_aptx.so
 lib/libbt-aptX-ARM-4.2.2.so:blobs/spr/lib/libbt-aptX-ARM-4.2.2.so
 lib/libbt-codec_sshd.so:blobs/spr/lib/libbt-codec_sshd.so
