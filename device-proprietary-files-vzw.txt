@@ -1,18 +1,6 @@
 # trltevzw
 
-vendor/lib/libmdmdetect.so:blobs/vzw/vendor/lib/libmdmdetect.so
-vendor/lib/libconfigdb.so:blobs/vzw/vendor/lib/libconfigdb.so
 vendor/lib/libdiag.so:blobs/vzw/vendor/lib/libdiag.so
-vendor/lib/libdsutils.so:blobs/vzw/vendor/lib/libdsutils.so
-vendor/lib/libidl.so:blobs/vzw/vendor/lib/libidl.so
-vendor/lib/libqcci_legacy.so:blobs/vzw/vendor/lib/libqcci_legacy.so
-vendor/lib/libqmi.so:blobs/vzw/vendor/lib/libqmi.so
-vendor/lib/libqmi_cci.so:blobs/vzw/vendor/lib/libqmi_cci.so
-vendor/lib/libqmi_client_qmux.so:blobs/vzw/vendor/lib/libqmi_client_qmux.so
-vendor/lib/libqmi_common_so.so:blobs/vzw/vendor/lib/libqmi_common_so.so
-vendor/lib/libqmi_csi.so:blobs/vzw/vendor/lib/libqmi_csi.so
-vendor/lib/libqmi_encdec.so:blobs/vzw/vendor/lib/libqmi_encdec.so
-vendor/lib/libqmiservices.so:blobs/vzw/vendor/lib/libqmiservices.so
 lib/libagc_max.so:blobs/vzw/lib/libagc_max.so
 lib/libqservice.so:blobs/vzw/lib/libqservice.so
 lib/libtinyxml.so:blobs/vzw/lib/libtinyxml.so
@@ -32,13 +20,6 @@ bin/ks:blobs/vzw/bin/ks
 bin/mdm_helper:blobs/vzw/bin/mdm_helper
 bin/mdm_helper_proxy:blobs/vzw/bin/mdm_helper_proxy
 bin/qcks:blobs/vzw/bin/qcks
-bin/qmuxd:blobs/vzw/bin/qmuxd
-bin/rild:blobs/vzw/bin/rild
 bin/rmnetcli:blobs/vzw/bin/rmnetcli
 lib/libreference-ril.so:blobs/vzw/lib/libreference-ril.so
-lib/libril.so:blobs/vzw/lib/libril.so
 lib/librmnetctl.so:blobs/vzw/lib/librmnetctl.so
-lib/libsec-ril.so:blobs/vzw/lib/libsec-ril.so
-lib/libsecril-client.so:blobs/vzw/lib/libsecril-client.so
-vendor/lib/libril-qcril-hook-oem.so:blobs/vzw/vendor/lib/libril-qcril-hook-oem.so
-vendor/lib/libcneapiclient.so:blobs/vzw/vendor/lib/libcneapiclient.so
