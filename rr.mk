@@ -16,8 +16,8 @@
 
 $(call inherit-product, device/samsung/trlte/full_trlte.mk)
 
-# Inherit common LineageOS phone.
-$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
+# Inherit common RR phone.
+$(call inherit-product, vendor/rr/config/common_full_phone.mk)
 
 PRODUCT_DEVICE := trlte
-PRODUCT_NAME := lineage_trlte
+PRODUCT_NAME := rr_trlte
