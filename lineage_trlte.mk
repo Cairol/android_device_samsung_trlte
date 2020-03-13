@@ -28,6 +28,3 @@ PRODUCT_DEVICE := trlte
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_MODEL := trlte
-
-# Enable root access for apps (build superuser binary)
-WITH_SU := true
